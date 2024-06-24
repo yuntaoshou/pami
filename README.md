@@ -1,9 +1,7 @@
 # GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation
 
 Correspondence to: 
-  - Zheng Lian (lianzheng2016@ia.ac.cn)
-  - Licai Sun (sunlicai2019@ia.ac.cn)
-  - Lan Chen (chenlanjojo@gmail.com)
+  - Yuntao Shou (shouyuntao@stu.xjtu.edu.cn)
 
 ## Paper
 [**GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation**](https://arxiv.org/abs/2203.02177)<br>
@@ -205,4 +203,4 @@ sh run_cpmnetsub3.sh [dataset]
 
 ### Acknowledgement
 
-Thanks to [openface](https://github.com/TadasBaltrusaitis/OpenFace), [fairseq](https://github.com/facebookresearch/fairseq), [CPM-Nets](https://github.com/hanmenghan/CPM_Nets), [DialogueGCN](https://github.com/declare-lab/conv-emotion/tree/master/DialogueGCN), [CCA](https://github.com/ashawkey/CCA), [DCCA](https://github.com/Michaelvll/DeepCCA), [MMIN](https://github.com/AIM3-RUC/MMIN/tree/master).
+Thanks to [openface](https://github.com/TadasBaltrusaitis/OpenFace), [fairseq](https://github.com/facebookresearch/fairseq), [CPM-Nets](https://github.com/hanmenghan/CPM_Nets), [DialogueGCN](https://github.com/declare-lab/conv-emotion/tree/master/DialogueGCN), [CCA](https://github.com/ashawkey/CCA), [DCCA](https://github.com/Michaelvll/DeepCCA), [MMIN](https://github.com/AIM3-RUC/MMIN/tree/master), [GCNet](https://github.com/zeroQiaoba/GCNet).
