@@ -1,4 +1,6 @@
 ![Supported Python versions](https://img.shields.io/badge/%20python-3.8-blue)
+![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
+
 
 # GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation
 
