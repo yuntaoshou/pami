@@ -204,3 +204,7 @@ sh run_cpmnetsub3.sh [dataset]
 ### Acknowledgement :heart:
 
 Thanks to [openface](https://github.com/TadasBaltrusaitis/OpenFace), [fairseq](https://github.com/facebookresearch/fairseq), [CPM-Nets](https://github.com/hanmenghan/CPM_Nets), [DialogueGCN](https://github.com/declare-lab/conv-emotion/tree/master/DialogueGCN), [CCA](https://github.com/ashawkey/CCA), [DCCA](https://github.com/Michaelvll/DeepCCA), [MMIN](https://github.com/AIM3-RUC/MMIN/tree/master), [GCNet](https://github.com/zeroQiaoba/GCNet).
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yuntaoshou/pami&type=Date)](https://star-history.com/#yuntaoshou/pami&Date)
