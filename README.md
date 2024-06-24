@@ -2,7 +2,7 @@
 ![Supported OS](https://img.shields.io/badge/%20Supported_OS-Windows-red)
 
 
-# GCNet: Graph Completion Network for Incomplete Multimodal Learning in Conversation
+# D2CHGNN: Dynamic Dual Contrastive Hyperbolic Hypergraph for Incomplete Multi-view Emotion Representation Learning
 
 Correspondence to: 
   - Yuntao Shou (shouyuntao@stu.xjtu.edu.cn)
